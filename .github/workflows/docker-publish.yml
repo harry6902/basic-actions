@@ -26,5 +26,5 @@ jobs:
               context: .
               push: true
               tags: |
-  harry935/ci-basic:latest
-  harry935/ci-basic:${{ github.sha }}
+                 harry935/ci-basic:latest
+                 harry935/ci-basic:${{ github.sha }}
