@@ -10,6 +10,9 @@ app.get("/", (req,res)=>{
     res.send("Hello world")
 })
 
+app.get("/harry",(req,res)=>{
+    res.send("namaste anna!!");
+})
 
 
 app.listen(3000,()=>{
