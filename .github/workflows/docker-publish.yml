@@ -25,4 +25,4 @@ jobs:
            with:
               context: .
               push: true
-              tags: harry935/ci-basic/latest
+              tags: harry935/ci-basic:latest
